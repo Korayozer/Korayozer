@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Ardiuno projects
 - 📫 How to reach me ozberkkoray406@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: Despite being more than 16 years I still dont get to understand physics
+- ⚡ Fun fact: Despite the education of more than 16 years I still dont get to understand physics
 
 <!---
 Korayozer/Korayozer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
